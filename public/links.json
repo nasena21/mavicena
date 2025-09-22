@@ -5,16 +5,34 @@
       "desc": "Common links included in circle friends",
       "link_list": [
         {
-          "name": "Arthals' ink",
-          "intro": "所见高山远木，阔云流风；所幸岁月盈余，了无拘束",
-          "link": "https://arthals.ink/",
-          "avatar": "https://cdn.arthals.ink/Arthals.png"
+          "name": "Youtube",
+          "intro": "",
+          "link": "https://mavicena.com/",
+          "avatar": "/src/assets/youtube1.webp"
         },
         {
-          "name": "CWorld Site",
-          "intro": "求知若愚，虚怀若谷",
-          "link": "https://cworld0.com/",
-          "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"
+          "name": "Tiktok",
+          "intro": "",
+          "link": "https://www.tiktok.com/@mavicena21",
+          "avatar": "/src/assets/tiktok.png"
+        },
+        {
+          "name": "Instagram",
+          "intro": "",
+          "link": "https://www.instagram.com/mavicenaxxi/",
+          "avatar": "/src/assets/instagram.webp"
+        },
+        {
+          "name": "Newsletter",
+          "intro": "",
+          "link": "https://mavicena.substack.com/",
+          "avatar": "/src/assets/substack.png"
+        },
+        {
+          "name": "X / Twitter",
+          "intro": "",
+          "link": "https://mavicena.com/",
+          "avatar": "/src/assets/x.png"
         }
       ]
     },
